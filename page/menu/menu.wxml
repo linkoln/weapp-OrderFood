@@ -1,0 +1,13 @@
+<!--menu.wxml-->
+<view class="classname">
+<view class="classname" wx:for="{{menulists}}" style="flex-direction:row;">
+<view class="classname" style="flex-direction:column;">
+<image src="{{item.image}}"></image>
+</view>
+<view class="classname" style="flex-direction:column;">
+<text>{{item.name}}</text>
+<text>{{item.name}}</text>
+<text>{{item.name}}</text>
+</view>
+</view> 
+</view>

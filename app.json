@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "page/menu/menu",
+    "page/test/test"
+  ],
+  "windows": {
+    "background-color": "#FFFFFF"
+  }
+}
